@@ -1,0 +1,14 @@
+h1 {text-align: center;}
+body {
+ background-color: lightblue
+}
+
+h1 {
+color: purple
+}
+
+img, video, iframe{
+height: 150px;
+width: auto;
+
+}
