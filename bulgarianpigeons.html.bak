@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="icon" type="image/png" href="blondinette1.png">
+<meta name="viewport" content="width=device-width" initial-scale="1">
+<link rel="stylesheet" href="picnic.css">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<p><a href="origin.html"><button type="button">Origins of the pigeon breeds</button></a>
+<a href="bulgarianpigeons.html"><button type="button">Bulgarian pigeon breeds</button></a>
+<a href="index.html"><button type="button">Home page</button></a></p>
+
+<h1>Bulgarian pigeon breeds</h1>
+
+<h2>Aitos Roller</h2>
+<img src="Aytos-roller.jpg">
+
+<h2>Beloslatin White Head Roller</h2>
+<img src="Beloslatin-whitehead-Roller.jpg">
+
+<h2>White Lyulek</h2>
+<img src="White-Lyulek.jpg">
+
+<h2>Russe Owl</h2>
+<img src="ruse_owl.jpg">
+
+<p><a href = "https://www.pigeontype.info/2018/12/04/bulgarian-fancy-pigeon-breeds/">Information is from this site</a></p>
+
+</body>
+
+</html>

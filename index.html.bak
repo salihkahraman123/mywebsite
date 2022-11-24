@@ -1,29 +1,18 @@
 <!DOCTYPE html>
  <html>
 <head>
-<link rel = "icon" type = "image/x-icon" href = "/home/salih/Плот/my-website/blondinette1.jpg">
-<style>
-h1 {text-align: center;}
-</style>
 <title>pigeon breeeds</title>
+
+<link rel="icon" type="image/png" href="blondinette1.png">
+<meta name="viewport" content="width=device-width" initial-scale="1">
+<link rel="stylesheet" href="picnic.css">
+<link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
-<style>
-body {
- background-color: lightblue
-}
-
-h1 {
-color: purple
-}
-
-img, video, iframe{
-height: 150px;
-width: auto;
-
-}
-</style>
+<p><a href="index.html"><button type="button">Home page</button></a><a href="origin.html"><button type="button">Origins of the pigeon breeds</button></a>
+<a href="bulgarianpigeons.html"><button type="button">Bulgarian pigeon breeds</button></a></p>
 
 <h1>Pigeon breeds</h1>
 <h2>Fancy pigeons</h2>
@@ -36,14 +25,13 @@ width: auto;
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Postduif.jpg/640px-Postduif.jpg" width="300" height="auto">
 
-<p1><p>These pigeons were used for communication and they participate in races.</p></p1>
-
-<p2><p>The information is from <a href="https://www.galabite.com/">THIS SITE</a></p2>
+<p>These pigeons were used for communication and they participate in races.</p>
 
 <p><video width = "300" height = "auto" controls> 
 <source src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Pigeon.ogv">
 </video></p>
 
+<p>The information is from <a href="https://www.galabite.com/">THIS SITE</a></p>
 
 </body>
 </html>
