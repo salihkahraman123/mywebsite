@@ -5,6 +5,7 @@ text-align: left;
 margin-left: 25px;
 }
 p{
+font-family: "Times New Roman", Times, serif;
 text-align: justify;
 margin-left: 25px;
 }
@@ -19,6 +20,6 @@ color: purple
 
 img, video, iframe{
 margin-left: 25px;
-height: 250px;
-width: auto;
+height: 90%;
+width: 100%;
 }
