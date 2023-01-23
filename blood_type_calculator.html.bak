@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<title>Blood type calculator</title>
-		<link rel="stylesheet" href="bootstrap.css">
 		<link rel="stylesheet" href="blood_type_calculator.css">
+		<link rel="stylesheet" href="bootstrap.css">
 	</head>
 	<body>
 		<div class = "container">

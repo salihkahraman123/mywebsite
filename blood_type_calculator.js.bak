@@ -26,11 +26,7 @@ function calculate(){
 		x = "A";
 		}
 		if (x == "A"){
-			if (y == "B"){
-				console.log("A, B, 0, AB");
-			}else if(y == "0"){
-				console.log("A, 0");
-			}else console.log("A, 0");
+			console.log(x + " " + y);
 		} else 	console.log("B, 0");
 	}
 	
