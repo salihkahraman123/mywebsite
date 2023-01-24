@@ -12,3 +12,11 @@ p {
 	font-size: 20px;
 	color:white; 
 }
+.par {
+		font-size: 31px;
+		margin-left: 15px;
+}
+.par1 {
+		font-size: 30px;
+		margin-left: 10px;
+}
