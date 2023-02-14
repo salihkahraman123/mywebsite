@@ -1,16 +1,17 @@
 ---
-layout: default
+title: Pigeon site
+layout: pigeons
 ---
 <!DOCTYPE html>
 <html>
+
 	<head>
-		<title>pigeon breeeds</title>
 		<link rel="icon" type="image/png" href="blondinette1.png">
 		<meta name="viewport" content="width=device-width" initial-scale="1">
 		<link rel="stylesheet" href="bootstrap.css">
 		<link rel="stylesheet" href="style.css">
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-
+		<title>{{ page.title }}</title>
 	</head>
 
 	<body>
@@ -32,25 +33,45 @@ layout: default
 	  				</ul>
 			</div>
 		</nav>
+		<div class="container">
+			<h1>Bulgarian pigeon breeds</h1>
 
-			<h1>Pigeon breeds</h1>
-			<h2>Fancy pigeons</h2>
+			<div class = "row">
+				<div class = "col">
+					<h2>Aitos Roller</h2>
+				</div>
+				<div class = "col">
+					<img class="img-fluid" src="Aytos-roller.jpg">
+				</div>
+			</div>
+			<div class = "row">
+				<div class = "col">
+					<h2>Beloslatin White Head Roller</h2>
+				</div>
+				<div class = "col">
+					<img class="img-fluid" src="Beloslatin-whitehead-Roller.jpg">
+				</div>
+			</div>
+			<div class = "row">
+				<div class = "col">
+					<h2>White Lyulek</h2>
+				</div>
+				<div class = "col">
+					<img class="img-fluid" src="White-Lyulek.jpg">
+				</div>
+			</div>
+			<div class = "row">
+				<div class = "col">
+					<h2>Russe Owl</h2>
+				</div>
+				<div class = "col">
+					<img class="img-fluid" src="ruse_owl.jpg">
+				</div>
+			</div>
 
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fancy_Pigeons_-_Oriental_Frills_-_Blondinettes.jpg/320px-Fancy_Pigeons_-_Oriental_Frills_-_Blondinettes.jpg" class = "pictures">
-
-
-			<p1><p>These are pigeons which are bred for their beauty. They come in many different varieies.</p></p1>
-			<h2>Racing pigeons</h2>
-
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Postduif.jpg/640px-Postduif.jpg" class = "pictures">
-
-			<p>These pigeons were used for communication and they participate in races.</p>
-
-			<video id = "video" controls> 
-				<source src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Pigeon.ogv">
-			</video>
-
-			<p>The information is from <a href="https://www.galabite.com/">THIS SITE</a></p>
+			<p><a href = "https://www.pigeontype.info/2018/12/04/bulgarian-fancy-pigeon-breeds/">Information is from this site</a></p>
 		</div>
+
 	</body>
+
 </html>
